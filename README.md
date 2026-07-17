@@ -1,6 +1,6 @@
 <div align="center">
   
-### Full-Stack Developer (Android & Web )
+### Full-Stack Developer (Mobile & Web )
 **Laravel · PHP · Flutter · Dart**
 
 [![GitHub followers](https://img.shields.io/github/followers/mubarak-saeed?style=social)](https://github.com/mubarak-saeed) 
