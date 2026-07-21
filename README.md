@@ -12,7 +12,7 @@
 
 ### Professional Summary
 --------------------
-*I build polished mobile applications and reliable back-end systems that solve real business problems. I focus on maintainability, test coverage, and shipping production-ready features quickly.
+*I build polished mobile applications and reliable back-end systems that solve real business problems. I focus on maintainability, test coverage, and shipping production-ready features quickly*.
 
 Key strengths:
 - End-to-end product development (mobile + backend + admin dashboards)  
