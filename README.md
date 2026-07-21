@@ -12,11 +12,18 @@
 
 ### Professional Summary
 --------------------
-*I build polished Android applications and reliable back-end systems that solve business problems. I deliver maintainable, well-tested software and help teams move from idea to production quickly*.
+*I build polished mobile applications and reliable back-end systems that solve real business problems. I focus on maintainability, test coverage, and shipping production-ready features quickly*.
+
+Key strengths:
+- End-to-end product development (mobile + backend + admin dashboards)  
+- Strong in API design, authentication, and scalable data models  
+- Practical experience with RTL apps and performance-sensitive mobile flows
+
+---
 
 What I Do
 ---------
-- Android apps: Coroutines, background sync, secure payments.
+- Mobile apps: Coroutines, background sync, secure payments.
 - Back-end systems: REST APIs, authentication, data modeling, scalability and observability.
 
 Backend & Frameworks
@@ -42,17 +49,27 @@ Databases & Cache
 [![Postgres](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com) [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
 
-Selected Projects
------------------
-- Mobile payments app — secure payment flow, offline-first sync, performance optimizations.
-- E-commerce back-end — scalable order processing and subscription billing services.
 
-How I Work
-----------
-1. Align on goals and success metrics.
-2. Prototype and validate core flows.
-3. Implement iteratively with tests and code reviews.
-4. Deploy, monitor, and iterate using real usage data.
+## Selected Projects
+
+### gpms
+A complete Graduation Project Management System for universities — connects students, supervisors, and college admins with an admin panel and APIs.  
+Repo: https://github.com/mubarak-saeed/gpms  
+Live: https://www.unigpms.com
+
+### mediax
+Media gallery website/app with front-end and back-end components and a live demo.  
+Repo: https://github.com/mubarak-saeed/mediax
+
+### tech_course_app
+TechCourse mobile app built with Flutter (RTL support and Cairo font), targeted at students and tech learners.  
+Repo: https://github.com/mubarak-saeed/tech_course_app
+
+### tech_course_dashboard
+Course management dashboard built with Laravel; includes REST APIs for mobile and client apps.  
+Repo: https://github.com/mubarak-saeed/tech_course_dashboard
+
+See all projects: https://github.com/mubarak-saeed?tab=repositories
 
 Contact & Availability
 ----------------------
